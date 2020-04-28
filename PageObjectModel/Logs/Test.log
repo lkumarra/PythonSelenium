@@ -1,0 +1,569 @@
+2020-04-28 10:35:28,490 :DEBUG : initialization :Chrome is launched
+2020-04-28 10:35:35,692 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 10:35:35,692 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 10:35:39,822 :DEBUG : initialization :Maximize the window
+2020-04-28 10:35:39,822 :DEBUG : initialization :Maximize the window
+2020-04-28 10:35:39,822 :DEBUG : initialization :Maximize the window
+2020-04-28 10:35:39,825 :DEBUG : doLogin :DoLogin started
+2020-04-28 10:35:39,980 :DEBUG : doLogin :User Name lkumarra is enterd
+2020-04-28 10:35:39,980 :DEBUG : doLogin :User Name lkumarra is enterd
+2020-04-28 10:35:40,089 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 10:35:40,089 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 10:35:40,089 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 10:35:40,657 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:35:40,657 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:35:40,657 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:35:40,657 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:35:42,753 :DEBUG : quitSession :Quit the session
+2020-04-28 10:39:13,243 :DEBUG : initialization :Chrome is launched
+2020-04-28 10:39:19,854 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 10:39:19,854 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 10:39:23,996 :DEBUG : initialization :Maximize the window
+2020-04-28 10:39:23,996 :DEBUG : initialization :Maximize the window
+2020-04-28 10:39:23,996 :DEBUG : initialization :Maximize the window
+2020-04-28 10:39:23,999 :DEBUG : doLogin :DoLogin started
+2020-04-28 10:39:24,122 :DEBUG : doLogin :User Name lkumarra is enterd
+2020-04-28 10:39:24,122 :DEBUG : doLogin :User Name lkumarra is enterd
+2020-04-28 10:39:24,227 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 10:39:24,227 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 10:39:24,227 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 10:39:24,901 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:39:24,901 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:39:24,901 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:39:24,901 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 10:39:26,991 :DEBUG : quitSession :Quit the session
+2020-04-28 11:29:11,060 :DEBUG : initialization :Chrome is launched
+2020-04-28 11:29:18,198 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 11:29:18,198 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 11:29:22,377 :DEBUG : initialization :Maximize the window
+2020-04-28 11:29:22,377 :DEBUG : initialization :Maximize the window
+2020-04-28 11:29:22,377 :DEBUG : initialization :Maximize the window
+2020-04-28 11:29:22,381 :DEBUG : doLogin :DoLogin started
+2020-04-28 11:29:22,580 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 11:29:22,580 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 11:29:22,686 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 11:29:22,686 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 11:29:22,686 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 11:29:23,276 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 11:29:23,276 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 11:29:23,276 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 11:29:23,276 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 11:29:25,382 :DEBUG : quitSession :Quit the session
+2020-04-28 11:38:07,488 :DEBUG : initialization :Chrome is launched
+2020-04-28 11:38:14,465 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 11:38:14,465 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 11:38:18,606 :DEBUG : initialization :Maximize the window
+2020-04-28 11:38:18,606 :DEBUG : initialization :Maximize the window
+2020-04-28 11:38:18,606 :DEBUG : initialization :Maximize the window
+2020-04-28 11:38:18,610 :DEBUG : doLogin :DoLogin started
+2020-04-28 11:39:16,333 :DEBUG : initialization :Chrome is launched
+2020-04-28 11:39:22,562 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 11:39:22,562 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 11:39:26,715 :DEBUG : initialization :Maximize the window
+2020-04-28 11:39:26,715 :DEBUG : initialization :Maximize the window
+2020-04-28 11:39:26,715 :DEBUG : initialization :Maximize the window
+2020-04-28 11:39:26,719 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:08:17,842 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:08:23,156 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:08:23,156 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:08:27,293 :DEBUG : initialization :Maximize the window
+2020-04-28 12:08:27,293 :DEBUG : initialization :Maximize the window
+2020-04-28 12:08:27,293 :DEBUG : initialization :Maximize the window
+2020-04-28 12:08:27,297 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:08:27,452 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:08:27,452 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:08:27,575 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 12:08:27,575 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 12:08:27,575 :DEBUG : doLogin :Password 123456 is enterd
+2020-04-28 12:08:28,434 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:08:28,434 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:08:28,434 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:08:28,434 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:08:30,540 :DEBUG : quitSession :Quit the session
+2020-04-28 12:29:04,790 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:29:10,424 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:10,424 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:14,558 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:14,558 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:14,558 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:19,659 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:29:19,659 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:29:19,659 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:29:19,659 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:29:25,543 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:25,543 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:25,543 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:25,543 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:25,543 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:29:29,684 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:29,684 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:29,684 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:29,684 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:29,684 :DEBUG : initialization :Maximize the window
+2020-04-28 12:29:29,684 :DEBUG : initialization :Maximize the window
+2020-04-28 12:31:41,687 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:31:48,186 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:31:48,186 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:31:52,322 :DEBUG : initialization :Maximize the window
+2020-04-28 12:31:52,322 :DEBUG : initialization :Maximize the window
+2020-04-28 12:31:52,322 :DEBUG : initialization :Maximize the window
+2020-04-28 12:31:57,404 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:31:57,404 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:31:57,404 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:31:57,404 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:32:03,547 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:32:03,547 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:32:03,547 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:32:03,547 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:32:03,547 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:32:07,691 :DEBUG : initialization :Maximize the window
+2020-04-28 12:32:07,691 :DEBUG : initialization :Maximize the window
+2020-04-28 12:32:07,691 :DEBUG : initialization :Maximize the window
+2020-04-28 12:32:07,691 :DEBUG : initialization :Maximize the window
+2020-04-28 12:32:07,691 :DEBUG : initialization :Maximize the window
+2020-04-28 12:32:07,691 :DEBUG : initialization :Maximize the window
+2020-04-28 12:34:56,223 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:35:05,631 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:05,631 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:09,765 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:09,765 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:09,765 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:14,836 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:35:14,836 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:35:14,836 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:35:14,836 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:35:21,312 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:21,312 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:21,312 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:21,312 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:21,312 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:35:25,449 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:25,449 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:25,449 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:25,449 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:25,449 :DEBUG : initialization :Maximize the window
+2020-04-28 12:35:25,449 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:18,462 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:36:24,937 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:24,937 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:29,095 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:29,095 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:29,095 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:29,103 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:36:29,279 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:29,279 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:29,382 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:29,382 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:29,382 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:31,601 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:31,601 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:31,601 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:31,601 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:31,654 :DEBUG : verifyManagerId :Welcome message is Manger Id : mngr256214
+2020-04-28 12:36:36,726 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:36:36,726 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:36:36,726 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:36:36,726 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:36:43,040 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:43,040 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:43,040 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:43,040 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:43,040 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:36:47,182 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:47,182 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:47,182 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:47,182 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:47,182 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:47,182 :DEBUG : initialization :Maximize the window
+2020-04-28 12:36:47,187 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:36:47,187 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:36:47,187 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:36:47,187 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:36:47,187 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:36:47,346 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:47,346 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:47,346 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:47,346 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:47,346 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:47,346 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:47,449 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,171 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:36:50,227 :DEBUG : verifyWelcomeMessage :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-04-28 12:38:20,386 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:38:26,830 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:26,830 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:30,965 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:30,965 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:30,965 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:30,970 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:38:36,030 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:38:36,030 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:38:36,030 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:38:36,030 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:38:44,367 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:44,367 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:44,367 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:44,367 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:44,367 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:38:48,781 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:48,781 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:48,781 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:48,781 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:48,781 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:48,781 :DEBUG : initialization :Maximize the window
+2020-04-28 12:38:48,785 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:38:48,785 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:40:16,017 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:40:29,828 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:29,828 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:33,956 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:33,956 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:33,956 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:33,958 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:40:34,133 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:34,133 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:34,245 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:34,245 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:34,245 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:43,251 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:40:43,251 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:40:43,251 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:40:43,251 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:40:49,168 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:49,168 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:49,168 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:49,168 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:49,168 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:40:53,299 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:53,299 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:53,299 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:53,299 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:53,299 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:53,299 :DEBUG : initialization :Maximize the window
+2020-04-28 12:40:53,303 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:40:53,303 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:40:53,303 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:40:53,303 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:40:53,495 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:53,495 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:53,495 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:53,495 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:53,495 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:40:53,590 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:53,590 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:53,590 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:53,590 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:53,590 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:40:53,590 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:42:44,018 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:42:53,504 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:42:53,504 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:42:57,713 :DEBUG : initialization :Maximize the window
+2020-04-28 12:42:57,713 :DEBUG : initialization :Maximize the window
+2020-04-28 12:42:57,713 :DEBUG : initialization :Maximize the window
+2020-04-28 12:42:57,716 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:42:57,846 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:42:57,846 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:42:57,951 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:42:57,951 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:42:57,951 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:01,206 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:01,206 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:01,206 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:01,206 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:01,252 :DEBUG : verifyManagerId :Welcome message is Manger Id : mngr256214
+2020-04-28 12:43:03,357 :DEBUG : quitSession :Quit the session
+2020-04-28 12:43:08,451 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:43:08,451 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:43:08,451 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:43:08,451 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:43:17,471 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:43:17,471 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:43:17,471 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:43:17,471 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:43:17,471 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:43:21,607 :DEBUG : initialization :Maximize the window
+2020-04-28 12:43:21,607 :DEBUG : initialization :Maximize the window
+2020-04-28 12:43:21,607 :DEBUG : initialization :Maximize the window
+2020-04-28 12:43:21,607 :DEBUG : initialization :Maximize the window
+2020-04-28 12:43:21,607 :DEBUG : initialization :Maximize the window
+2020-04-28 12:43:21,607 :DEBUG : initialization :Maximize the window
+2020-04-28 12:43:21,611 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:43:21,611 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:43:21,611 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:43:21,611 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:43:21,611 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:43:21,739 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:43:21,739 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:43:21,739 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:43:21,739 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:43:21,739 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:43:21,739 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:21,860 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,839 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:43:23,883 :DEBUG : verifyWelcomeMessage :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-04-28 12:43:25,986 :DEBUG : quitSession :Quit the session
+2020-04-28 12:43:25,986 :DEBUG : quitSession :Quit the session
+2020-04-28 12:46:36,466 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:46:43,129 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:46:43,129 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:46:47,275 :DEBUG : initialization :Maximize the window
+2020-04-28 12:46:47,275 :DEBUG : initialization :Maximize the window
+2020-04-28 12:46:47,275 :DEBUG : initialization :Maximize the window
+2020-04-28 12:46:47,279 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:46:47,425 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:46:47,425 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:46:47,526 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:46:47,526 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:46:47,526 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:46:49,724 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:46:49,724 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:46:49,724 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:46:49,724 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:46:49,778 :DEBUG : verifyManagerId :Welcome message is Manger Id : mngr256214
+2020-04-28 12:46:51,884 :DEBUG : quitSession :Quit the session
+2020-04-28 12:46:56,969 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:46:56,969 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:46:56,969 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:46:56,969 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:47:03,812 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:47:03,812 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:47:03,812 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:47:03,812 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:47:03,812 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:47:07,942 :DEBUG : initialization :Maximize the window
+2020-04-28 12:47:07,942 :DEBUG : initialization :Maximize the window
+2020-04-28 12:47:07,942 :DEBUG : initialization :Maximize the window
+2020-04-28 12:47:07,942 :DEBUG : initialization :Maximize the window
+2020-04-28 12:47:07,942 :DEBUG : initialization :Maximize the window
+2020-04-28 12:47:07,942 :DEBUG : initialization :Maximize the window
+2020-04-28 12:47:07,945 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:47:07,945 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:47:07,945 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:47:07,945 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:47:07,945 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:47:08,077 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:47:08,077 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:47:08,077 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:47:08,077 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:47:08,077 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:47:08,077 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:08,186 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,014 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:47:11,058 :DEBUG : verifyWelcomeMessage :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-04-28 12:47:13,162 :DEBUG : quitSession :Quit the session
+2020-04-28 12:47:13,162 :DEBUG : quitSession :Quit the session
+2020-04-28 12:51:50,282 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:51:57,802 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:51:57,802 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:52:01,936 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:01,936 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:01,936 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:01,939 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:52:02,081 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:02,081 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:02,199 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:02,199 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:02,199 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:05,355 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:05,355 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:05,355 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:05,355 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:05,406 :DEBUG : verifyManagerId :Welcome message is Manger Id : mngr256214
+2020-04-28 12:52:07,505 :DEBUG : quitSession :Quit the session
+2020-04-28 12:52:12,575 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:52:12,575 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:52:12,575 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:52:12,575 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:52:19,354 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:52:19,354 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:52:19,354 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:52:19,354 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:52:19,354 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:52:23,505 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:23,505 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:23,505 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:23,505 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:23,505 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:23,505 :DEBUG : initialization :Maximize the window
+2020-04-28 12:52:23,509 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:52:23,509 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:52:23,509 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:52:23,509 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:52:23,509 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:52:23,645 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:23,645 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:23,645 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:23,645 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:23,645 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:23,645 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:23,758 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,617 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:52:26,686 :DEBUG : verifyWelcomeMessage :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-04-28 12:52:28,785 :DEBUG : quitSession :Quit the session
+2020-04-28 12:52:28,785 :DEBUG : quitSession :Quit the session
+2020-04-28 12:54:47,310 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:54:56,435 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:54:56,435 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:55:00,573 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:00,573 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:00,573 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:00,576 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:55:00,730 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:00,730 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:00,831 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:00,831 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:00,831 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:03,088 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:55:03,088 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:55:03,088 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:55:03,088 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:55:03,140 :DEBUG : verifyManagerId :Welcome message is Manger Id : mngr256214
+2020-04-28 12:55:05,243 :DEBUG : quitSession :Quit the session
+2020-04-28 12:55:10,334 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:55:10,334 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:55:10,334 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:55:10,334 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:55:17,328 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:55:17,328 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:55:17,328 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:55:17,328 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:55:17,328 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:55:21,455 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:21,455 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:21,455 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:21,455 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:21,455 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:21,455 :DEBUG : initialization :Maximize the window
+2020-04-28 12:55:21,458 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:55:21,458 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:55:21,458 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:55:21,458 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:55:21,458 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:55:21,595 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:21,595 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:21,595 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:21,595 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:21,595 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:21,595 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:55:21,760 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:56:39,501 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:56:45,833 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:56:45,833 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:56:49,968 :DEBUG : initialization :Maximize the window
+2020-04-28 12:56:49,968 :DEBUG : initialization :Maximize the window
+2020-04-28 12:56:49,968 :DEBUG : initialization :Maximize the window
+2020-04-28 12:56:49,971 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:56:50,102 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:56:50,102 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:56:50,205 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:56:50,205 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:56:50,205 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:56:53,635 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:56:53,635 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:56:53,635 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:56:53,635 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:56:53,703 :DEBUG : verifyManagerId :Welcome message is Manger Id : mngr256214
+2020-04-28 12:56:55,808 :DEBUG : quitSession :Quit the session
+2020-04-28 12:57:00,903 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:57:00,903 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:57:00,903 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:57:00,903 :DEBUG : initialization :Chrome is launched
+2020-04-28 12:57:07,920 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:57:07,920 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:57:07,920 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:57:07,920 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:57:07,920 :DEBUG : initialization :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-04-28 12:57:12,073 :DEBUG : initialization :Maximize the window
+2020-04-28 12:57:12,073 :DEBUG : initialization :Maximize the window
+2020-04-28 12:57:12,073 :DEBUG : initialization :Maximize the window
+2020-04-28 12:57:12,073 :DEBUG : initialization :Maximize the window
+2020-04-28 12:57:12,073 :DEBUG : initialization :Maximize the window
+2020-04-28 12:57:12,073 :DEBUG : initialization :Maximize the window
+2020-04-28 12:57:12,079 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:57:12,079 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:57:12,079 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:57:12,079 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:57:12,079 :DEBUG : doLogin :DoLogin started
+2020-04-28 12:57:12,211 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:57:12,211 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:57:12,211 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:57:12,211 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:57:12,211 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:57:12,211 :DEBUG : doLogin :User Name mngr256214 is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:12,315 :DEBUG : doLogin :Password uvUsAvY is enterd
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,691 :DEBUG : doLogin :Clicked on submit button
+2020-04-28 12:57:14,757 :DEBUG : verifyWelcomeMessage :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-04-28 12:57:16,861 :DEBUG : quitSession :Quit the session
+2020-04-28 12:57:16,861 :DEBUG : quitSession :Quit the session
