@@ -6,7 +6,8 @@ Created on 27-Apr-2020
 import json
 import os
 currentdir = os.getcwd()
-f = open(".Confing.json")
+fileName = "../Config/Confing.json"
+f = open(fileName)
 data = json.load(f)
 print(data["browser"])
 print(currentdir)

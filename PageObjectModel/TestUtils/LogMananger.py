@@ -11,7 +11,7 @@ class LogManager():
     def getLogger(self):
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
-        fileHandler = logging.FileHandler('E:\Python_Workspace\PageObjectModel\Logs\Test.log')
+        fileHandler = logging.FileHandler('../Logs/Test.log')
         formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
         ch = logging.StreamHandler()
         fileHandler.setFormatter(formatter)

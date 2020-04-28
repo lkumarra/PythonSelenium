@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4268a190-f886-47bd-9d5e-db7b8771f71d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/Logs/Test.log" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Logs/Test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/Rough/Rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Rough/Rough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/TestBase/Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestBase/Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/TestCase/HomePageTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCase/HomePageTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/TestCase/LoginPageTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCase/LoginPageTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/TestUtils/LogMananger.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestUtils/LogMananger.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bABcQZlelawCP0konj8PFEmmGU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/PycharmSelenium/PageObjectModel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4268a190-f886-47bd-9d5e-db7b8771f71d" name="Default Changelist" comment="" />
+      <created>1588065096986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588065096986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1588065176382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588065176382" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1588065100045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588065100045" />
+  </component>
+</project>

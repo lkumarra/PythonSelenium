@@ -10,20 +10,20 @@ from TestBase.Page import Page
 
 
 class TestLoginPage(unittest.TestCase):
-    f = open("E:\Python_Workspace\PageObjectModel\TestData\Data.json")
-    data = json.load(f)
+    fileName = "../TestData/Data.json"
+    file = open(fileName)
+    data = json.load(file)
     page = Page()
     driver = None
     loginPage = None
+
     def setUp(self):
         print("setup started")
-        self.driver=self.page.initialization()
-    
+        self.driver = self.page.initialization()
     
     def test_Login(self):
         self.loginPage = LoginPage(self.driver)
         self.loginPage.doLogin(self.data["LoginPage"]["userId"], self.data["LoginPage"]["password"])
-        
     
     def tearDown(self):
         self.page.quitSession()
