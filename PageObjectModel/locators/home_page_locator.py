@@ -18,18 +18,18 @@ class HomePageLocators(PageFactory):
         "editCostumerLink": ('LINK TEXT', 'Edit Customer')
      }
     
-    def welcomeMessageLocator(self):
+    def get_welcome_message_locator(self):
         '''Locator of welcome message'''
         return self.welcomeMessage;
     
-    def managerIDLocator(self):
+    def get_manager_id_locator(self):
         '''Locator of manager Id'''
         return self.managerId;
     
-    def newCostumerLinkLocator(self):
+    def get_new_costumer_link_locator(self):
         '''Locator of new customer link'''
         return self.newCostumerLink;
     
-    def editCostumerLinkLocator(self):
+    def edit_costumer_link_locator(self):
         '''Locator of edit customer link'''
         return self.editCostumerLink;

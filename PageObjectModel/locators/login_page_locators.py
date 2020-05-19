@@ -18,14 +18,14 @@ class LoginPageLocators(PageFactory):
         "resetButton": ('XPATH', 'btnReset')
      }
     
-    def userIdLocator(self):
+    def get_user_id_locator(self):
         return self.userId;
     
-    def passwordLocator(self):
+    def get_password_locator(self):
         return self.password;
     
-    def loginButtonLocator(self):
+    def get_login_button_locator(self):
         return self.loginButton;
     
-    def resetButtonLocato(self):
+    def get_reset_button_locator(self):
         return self.resetButton;

@@ -4,10 +4,10 @@ Created on 27-Apr-2020
 @author: Lavendra rajput
 '''
 from selenium import webdriver
-from Locators.HomePageLocator import HomePageLocators
-from TestBase.Page import Page
-from TestUtils.LogMananger import LogManager
-from TestUtils.Utilities import Utilities
+from locators.home_page_locator import HomePageLocators
+from test_base.page import Page
+from test_utils.log_mananger import LogManager
+from test_utils.utilities import Utilities
 
 class HomePage(Page):
     
@@ -17,16 +17,16 @@ class HomePage(Page):
         self.driver = driver
         self.homePageLocator = HomePageLocators(self.driver)
         
-    def verifyWelcomeMessage(self):
+    def verify_welcome_message(self):
         '''Return the welcome message after login'''
-        text = self.util.getElementText(self.homePageLocator.welcomeMessageLocator())
+        text = self.util.get_element_text(self.homePageLocator.get_welcome_message_locator())
         self.log.getLogger().debug("Welcome message is "+text)
         return text
     
     
-    def verifyManagerId(self):
+    def verify_manager_id(self):
         '''Return the manager Id After login'''
-        text = self.util.getElementText(self.homePageLocator.managerIDLocator())
+        text = self.util.get_element_text(self.homePageLocator.get_manager_id_locator())
         self.log.getLogger().debug("Welcome message is "+text)
         return text
     
