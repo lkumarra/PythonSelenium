@@ -8,14 +8,17 @@ from selenium import webdriver
 from test_utils.log_mananger import LogManager
 
 
-class Page():
+class Page:
+    
     fileName = "../config/Confing.json"
     file = open(fileName)
     data = json.load(file)
     log = LogManager() 
 
-    def initialization(self):
-        '''Initialize the webdriver'''
+    def iniItialization(self):
+        """
+        Initialize the webdriver !
+        """
         if(self.data["browser"] == "Chrome"):
             driver = webdriver.Chrome("../executables/chromedriver.exe")
             self.log.getLogger().debug("Chrome is launched")
@@ -29,8 +32,8 @@ class Page():
         return driver
     
     def quit_session(self, driver):
-        '''
-           Quit the Browser
-        '''
+        """
+           Quit the Browser !
+        """
         driver.quit()
         self.log.getLogger().debug("Quit the session")

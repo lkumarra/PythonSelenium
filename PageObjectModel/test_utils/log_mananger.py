@@ -6,9 +6,10 @@ Created on 27-Apr-2020
 import inspect
 import logging
 
-class LogManager():
+class LogManager:
     
     def getLogger(self):
+        
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
         fileHandler = logging.FileHandler('../Logs/Test.log')
@@ -20,4 +21,3 @@ class LogManager():
         logger.addHandler(ch) # filehandler object
         logger.setLevel(logging.DEBUG)
         return logger
-    

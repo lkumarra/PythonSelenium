@@ -19,17 +19,25 @@ class HomePageLocators(PageFactory):
      }
     
     def get_welcome_message_locator(self):
-        '''Locator of welcome message'''
+        """
+        Return Locator of welcome message !
+        """
         return self.welcomeMessage;
     
     def get_manager_id_locator(self):
-        '''Locator of manager Id'''
+        """
+        Return Locator of manager Id !
+        """
         return self.managerId;
     
     def get_new_costumer_link_locator(self):
-        '''Locator of new customer link'''
+        """
+        Return Locator of new customer link !
+        """
         return self.newCostumerLink;
     
     def edit_costumer_link_locator(self):
-        '''Locator of edit customer link'''
+        """
+        Return Locator of edit customer link
+        """
         return self.editCostumerLink;

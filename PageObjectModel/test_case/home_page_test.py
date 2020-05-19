@@ -11,6 +11,7 @@ import HtmlTestRunner
 
 
 class TestHomePage(unittest.TestCase):
+    
     fileName = "../test_data/Data.json"
     file = open(fileName)
     data = json.load(file)
@@ -20,7 +21,6 @@ class TestHomePage(unittest.TestCase):
     homePage = None
 
     def setUp(self):
-        print("setup started")
         self.driver = self.page.initialization()
         self.loginPage = LoginPage(self.driver)
         self.homePage = self.loginPage.do_login(self.data["LoginPage"]["userId"], self.data["LoginPage"]["password"])
@@ -36,7 +36,6 @@ class TestHomePage(unittest.TestCase):
 
     def tearDown(self):
         self.page.quitSession(self.driver)
-
 
 if __name__ == '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(

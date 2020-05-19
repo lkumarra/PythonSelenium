@@ -17,7 +17,9 @@ class LoginPage(Page):
         self.driver = driver
 
     def do_login(self, userName, password):
-        '''Do login to login page'''
+        """
+        Do login to login page !
+        """
         self.log.getLogger().debug("DoLogin started")
         loginElements = LoginPageLocators(self.driver)
         self.util.enter_text_in_element_with_clear(loginElements.get_user_id_locator(), userName)

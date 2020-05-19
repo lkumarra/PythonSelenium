@@ -12,6 +12,7 @@ import HtmlTestRunner
 
 
 class TestLoginPage(unittest.TestCase):
+    
     fileName = "../test_data/Data.json"
     file = open(fileName)
     data = json.load(file)
@@ -20,7 +21,6 @@ class TestLoginPage(unittest.TestCase):
     loginPage = None
 
     def setUp(self):
-        print("setup started")
         self.driver = self.page.initialization()
     
     def test_Login(self):
@@ -33,4 +33,3 @@ class TestLoginPage(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(
         output=r"../test_report"))
-        

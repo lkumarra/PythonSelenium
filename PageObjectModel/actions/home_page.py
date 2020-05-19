@@ -13,20 +13,23 @@ class HomePage(Page):
     
     util = Utilities()
     log = LogManager()
+    
     def __init__(self, driver:webdriver):
         self.driver = driver
         self.homePageLocator = HomePageLocators(self.driver)
         
     def verify_welcome_message(self):
-        '''Return the welcome message after login'''
+        """
+        Return the welcome message after login !
+        """
         text = self.util.get_element_text(self.homePageLocator.get_welcome_message_locator())
         self.log.getLogger().debug("Welcome message is "+text)
         return text
     
-    
     def verify_manager_id(self):
-        '''Return the manager Id After login'''
+        """
+        Return the manager Id After login !
+        """
         text = self.util.get_element_text(self.homePageLocator.get_manager_id_locator())
         self.log.getLogger().debug("Welcome message is "+text)
         return text
-    
