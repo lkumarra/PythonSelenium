@@ -14,8 +14,8 @@ class Page:
     file = open(fileName)
     data = json.load(file)
     log = LogManager() 
-
-    def iniItialization(self):
+    
+    def initialization(self):
         """
         Initialize the webdriver !
         """
@@ -24,14 +24,14 @@ class Page:
             self.log.getLogger().debug("Chrome is launched")
         elif(self.data["browser"] == "firefox"):
             driver = webdriver.Chrome("../executables/chromedriver.exe")
-            self.log.getLogger().debug("Firefox is launched")
+        self.log.getLogger().debug("Firefox is launched")
         driver.get(self.data["url"])
         self.log.getLogger().debug("Enter the url" + self.data["url"])
         driver.maximize_window()
         self.log.getLogger().debug("Maximize the window")
         return driver
     
-    def quit_session(self, driver):
+    def quit_session(self, driver:webdriver):
         """
            Quit the Browser !
         """

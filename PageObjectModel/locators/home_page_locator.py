@@ -13,7 +13,7 @@ class HomePageLocators(PageFactory):
         
     locators = {
         "welcomeMessage": ('XPATH', "//marquee[@class = 'heading3']"),
-        "managerId": ('CSS', "tr.heading3>td:first-child"),
+        "managerId": ('XPATH', "//td[contains(text(),'Manger Id :')]"),
         "newCostumerLink": ('LINK TEXT', 'New Customer'),
         "editCostumerLink": ('LINK TEXT', 'Edit Customer')
      }
