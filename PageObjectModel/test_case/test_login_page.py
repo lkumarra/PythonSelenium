@@ -9,7 +9,7 @@ from test_base.page import Page
 import pytest
 
 
-
+@pytest.mark.usefixtures("setUp")
 class TestLoginPage():
     
     fileName = "../test_data/Data.json"
@@ -26,6 +26,6 @@ class TestLoginPage():
         self.page.quit_session(self.driver)
         
     
-    def test_Login(self, setUp):
+    def test_Login(self):
         self.loginPage = LoginPage(self.driver)
         self.loginPage.do_login(self.data["LoginPage"]["userId"], self.data["LoginPage"]["password"])

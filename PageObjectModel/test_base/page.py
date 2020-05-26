@@ -4,7 +4,10 @@ Created on 27-Apr-2020
 @author: Lavendra rajput
 '''
 import json
+
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
 from test_utils.log_mananger import LogManager
 
 
@@ -20,10 +23,10 @@ class Page:
         Initialize the webdriver !
         """
         if(self.data["browser"] == "Chrome"):
-            driver = webdriver.Chrome("../executables/chromedriver.exe")
+            driver = webdriver.Chrome(ChromeDriverManager().install())
             self.log.getLogger().debug("Chrome is launched")
         elif(self.data["browser"] == "firefox"):
-            driver = webdriver.Chrome("../executables/chromedriver.exe")
+            driver = webdriver.Chrome(GeckoDriverManager().install())
         self.log.getLogger().debug("Firefox is launched")
         driver.get(self.data["url"])
         self.log.getLogger().debug("Enter the url" + self.data["url"])
