@@ -1,13 +1,11 @@
-'''
+"""
 Created on 27-Apr-2020
-
 @author: Lavendra rajput
-'''
+"""
 import json
 from actions.login_page import LoginPage
 from test_base.page import Page
 import pytest
-
 
 @pytest.mark.usefixtures("setUp")
 class TestLoginPage():

@@ -1,8 +1,7 @@
-'''
+"""
 Created on 28-Apr-2020
-
 @author: Lavendra rajput
-'''
+"""
 import json
 from actions.login_page import LoginPage
 from test_base.page import Page

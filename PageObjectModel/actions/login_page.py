@@ -1,8 +1,7 @@
-'''
+"""
 Created on 27-Apr-2020
-
 @author: Lavendra rajput
-'''
+"""
 from locators.login_page_locators import LoginPageLocators
 from test_base.page import Page
 from test_utils.log_mananger import LogManager

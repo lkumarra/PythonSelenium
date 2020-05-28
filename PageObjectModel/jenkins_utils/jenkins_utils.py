@@ -1,18 +1,13 @@
-'''
+"""
 Created on 28-May-2020
-
 @author: Lavendra rajput
-'''
+"""
 import jenkins
 import time
-# It comes with pip module python-jenkins
-# use pip to install python-jenkins
 
-# Jenkins Authentication URL
 JENKINS_URL = "http://localhost:8080/"
 JENKINS_USERNAME = "lavendra"
 JENKINS_PASSWORD = "Lav123456@"
-
 
 class DevOpsJenkins:
     def __init__(self):

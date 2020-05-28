@@ -1,15 +1,12 @@
-'''
+"""
 Created on 27-Apr-2020
-
 @author: Lavendra rajput
-'''
+"""
 import json
-
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from test_utils.log_mananger import LogManager
-
 
 class Page:
     

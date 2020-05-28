@@ -1,8 +1,7 @@
-'''
+"""
 Created on 27-Apr-2020
-
 @author: Lavendra rajput
-'''
+"""
 from selenium import webdriver
 from locators.home_page_locator import HomePageLocators
 from test_base.page import Page
