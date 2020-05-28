@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8fa910a99a7a496a8054fed2a1a8a9a4)](https://www.codacy.com/manual/lkumarra/PythonSelenium?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lkumarra/PythonSelenium&amp;utm_campaign=Badge_Grade)
 To Run the Test Cases Following Dependencies are needed.
 
 	1. pip install selenium(Selenium Dependency).
