@@ -26,7 +26,9 @@ class DevOpsJenkins:
     
     def build_stop(self,name):
         self.jenkins_server.stop_build(name, self.jenkins_server.get_job_info(name)['nextBuildNumber']-1)
-
+        
+    def get_console_output(self, name):
+        return self.jenkins_server.get_build_console_output(name,  self.jenkins_server.get_job_info(name)['nextBuildNumber']-1)
 
 if __name__ == "__main__":
     NAME_OF_JOB = "Python_Automation_Framework"
