@@ -23,6 +23,9 @@ class DevOpsJenkins:
         time.sleep(10)
         build_info = self.jenkins_server.get_build_info(name, next_build_number)
         return build_info
+    
+    def build_stop(self,name):
+        self.jenkins_server.stop_build(name, self.jenkins_server.get_job_info(name)['nextBuildNumber']-1)
 
 
 if __name__ == "__main__":
