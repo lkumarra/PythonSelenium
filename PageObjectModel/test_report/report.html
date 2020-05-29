@@ -243,7 +243,7 @@ function filter_table(elem) {
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 28-May-2020 at 15:11:42 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.1.1</p>
+    <p>Report generated on 29-May-2020 at 14:53:21 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -254,13 +254,13 @@ function filter_table(elem) {
         <td>Windows-10-10.0.18362-SP0</td></tr>
       <tr>
         <td>Plugins</td>
-        <td>{"html": "2.1.1", "metadata": "1.9.0"}</td></tr>
+        <td>{"allure-pytest": "2.8.16", "html": "2.1.1", "metadata": "1.9.0"}</td></tr>
       <tr>
         <td>Python</td>
         <td>3.8.2</td></tr></table>
     <h2>Summary</h2>
-    <p>3 tests ran in 51.83 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">3 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>3 tests ran in 74.32 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -271,56 +271,54 @@ function filter_table(elem) {
           <th>Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
+      <tbody class="failed results-table-row">
+        <tr>
+          <td class="col-result">Failed</td>
+          <td class="col-name">test_home_page.py::TestHomePage::test_verifyManagerId</td>
+          <td class="col-duration">6.01</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div><div><img src="../test_reporttest_home_page.py_TestHomePage_test_verifyManagerId.png" alt="screenshot" style="width:304px;height:228px;" onclick="window.open(this.src)" align="right"/></div></div>
+            <div class="log">self = &lt;test_case.test_home_page.TestHomePage object at 0x000002EEB10C33A0&gt;<br/><br/>    def test_verifyManagerId(self):<br/>        self.loginPage = LoginPage(self.driver)<br/>        self.homePage = self.loginPage.do_login(self.data[&quot;LoginPage&quot;][&quot;userId&quot;], self.data[&quot;LoginPage&quot;][&quot;password&quot;])<br/>        actual = self.homePage.verify_manager_id()<br/>        expected = self.data[&quot;HomePage&quot;][&quot;customerId&quot;]<br/>&gt;       assert actual == expected, &quot;Wrong welcome message is displayed&quot;<br/><span class="error">E       AssertionError: Wrong welcome message is displayed</span><br/><span class="error">E       assert &#x27;Manger Id : mngr261615&#x27; == &#x27;Manger Id : mngr26161&#x27;</span><br/><span class="error">E         - Manger Id : mngr26161</span><br/><span class="error">E         + Manger Id : mngr261615</span><br/><span class="error">E         ?                      +</span><br/><br/>test_home_page.py:30: AssertionError<br/> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m WDM:logger.py:12 Looking for [chromedriver 83.0.4103.39 win32] driver in cache 
+[32mINFO    [0m WDM:logger.py:12 File found in cache by path [C:\Users\Lavendra rajput\.wdm\drivers\chromedriver\83.0.4103.39\win32\chromedriver.exe]
+[35mDEBUG   [0m setup:conftest.py:34 Chrome is launched
+[35mDEBUG   [0m setup:conftest.py:42 Enter the urlhttp://www.demo.guru99.com/V4/index.php
+[35mDEBUG   [0m setup:conftest.py:44 Maximize the window<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m do_login:login_page.py:24 DoLogin started
+[35mDEBUG   [0m do_login:login_page.py:26 User Name mngr261615 is enterd
+[35mDEBUG   [0m do_login:login_page.py:28 Password jEmUhub is enterd
+[35mDEBUG   [0m do_login:login_page.py:30 Clicked on submit button
+[35mDEBUG   [0m verify_manager_id:home_page.py:32 Welcome message is Manger Id : mngr261615<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_home_page.py::TestHomePage::test_verifyWelcomeMessage</td>
-          <td class="col-duration">0.90</td>
+          <td class="col-duration">6.37</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m WDM:logger.py:22 Looking for [chromedriver 83.0.4103.39 win32] driver in cache 
 [32mINFO    [0m WDM:logger.py:12 File found in cache by path [C:\Users\Lavendra rajput\.wdm\drivers\chromedriver\83.0.4103.39\win32\chromedriver.exe]
-[35mDEBUG   [0m initialization:page.py:27 Chrome is launched
-[35mDEBUG   [0m initialization:page.py:30 Firefox is launched
-[35mDEBUG   [0m initialization:page.py:32 Enter the urlhttp://www.demo.guru99.com/V4/index.php
-[35mDEBUG   [0m initialization:page.py:34 Maximize the window
-[35mDEBUG   [0m do_login:login_page.py:26 DoLogin started
-[35mDEBUG   [0m do_login:login_page.py:28 User Name mngr261615 is enterd
-[35mDEBUG   [0m do_login:login_page.py:30 Password jEmUhub is enterd
-[35mDEBUG   [0m do_login:login_page.py:32 Clicked on submit button<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m verify_welcome_message:home_page.py:26 Welcome message is Welcome To Manager&#x27;s Page of Guru99 Bank<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_home_page.py::TestHomePage::test_verifyManagerId</td>
-          <td class="col-duration">0.92</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m WDM:logger.py:12 Looking for [chromedriver 83.0.4103.39 win32] driver in cache 
-[32mINFO    [0m WDM:logger.py:12 File found in cache by path [C:\Users\Lavendra rajput\.wdm\drivers\chromedriver\83.0.4103.39\win32\chromedriver.exe]
-[35mDEBUG   [0m initialization:page.py:27 Chrome is launched
-[35mDEBUG   [0m initialization:page.py:30 Firefox is launched
-[35mDEBUG   [0m initialization:page.py:32 Enter the urlhttp://www.demo.guru99.com/V4/index.php
-[35mDEBUG   [0m initialization:page.py:34 Maximize the window
-[35mDEBUG   [0m do_login:login_page.py:26 DoLogin started
-[35mDEBUG   [0m do_login:login_page.py:28 User Name mngr261615 is enterd
-[35mDEBUG   [0m do_login:login_page.py:30 Password jEmUhub is enterd
-[35mDEBUG   [0m do_login:login_page.py:32 Clicked on submit button<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m verify_manager_id:home_page.py:34 Welcome message is Manger Id : mngr261615<br/></div></td></tr></tbody>
+[35mDEBUG   [0m setup:conftest.py:34 Chrome is launched
+[35mDEBUG   [0m setup:conftest.py:42 Enter the urlhttp://www.demo.guru99.com/V4/index.php
+[35mDEBUG   [0m setup:conftest.py:44 Maximize the window<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m do_login:login_page.py:24 DoLogin started
+[35mDEBUG   [0m do_login:login_page.py:26 User Name mngr261615 is enterd
+[35mDEBUG   [0m do_login:login_page.py:28 Password jEmUhub is enterd
+[35mDEBUG   [0m do_login:login_page.py:30 Clicked on submit button
+[35mDEBUG   [0m verify_welcome_message:home_page.py:24 Welcome message is Welcome To Manager&#x27;s Page of Guru99 Bank<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_page.py::TestLoginPage::test_Login</td>
-          <td class="col-duration">1.40</td>
+          <td class="col-duration">5.90</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m WDM:logger.py:12 Looking for [chromedriver 83.0.4103.39 win32] driver in cache 
 [32mINFO    [0m WDM:logger.py:12 File found in cache by path [C:\Users\Lavendra rajput\.wdm\drivers\chromedriver\83.0.4103.39\win32\chromedriver.exe]
-[35mDEBUG   [0m initialization:page.py:27 Chrome is launched
-[35mDEBUG   [0m initialization:page.py:30 Firefox is launched
-[35mDEBUG   [0m initialization:page.py:32 Enter the urlhttp://www.demo.guru99.com/V4/index.php
-[35mDEBUG   [0m initialization:page.py:34 Maximize the window<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m do_login:login_page.py:26 DoLogin started
-[35mDEBUG   [0m do_login:login_page.py:28 User Name mngr261615 is enterd
-[35mDEBUG   [0m do_login:login_page.py:30 Password jEmUhub is enterd
-[35mDEBUG   [0m do_login:login_page.py:32 Clicked on submit button<br/></div></td></tr></tbody></table></body></html>
+[35mDEBUG   [0m setup:conftest.py:34 Chrome is launched
+[35mDEBUG   [0m setup:conftest.py:42 Enter the urlhttp://www.demo.guru99.com/V4/index.php
+[35mDEBUG   [0m setup:conftest.py:44 Maximize the window<br/> -------------------------------Captured log call-------------------------------- <br/>[35mDEBUG   [0m do_login:login_page.py:24 DoLogin started
+[35mDEBUG   [0m do_login:login_page.py:26 User Name mngr261615 is enterd
+[35mDEBUG   [0m do_login:login_page.py:28 Password jEmUhub is enterd
+[35mDEBUG   [0m do_login:login_page.py:30 Clicked on submit button<br/></div></td></tr></tbody></table></body></html>

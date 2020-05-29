@@ -5087,3 +5087,1256 @@
 2020-05-28 15:11:42,191 :DEBUG : quit_session :Quit the session
 2020-05-28 15:11:42,191 :DEBUG : quit_session :Quit the session
 2020-05-28 15:11:42,191 :DEBUG : quit_session :Quit the session
+2020-05-29 12:23:08,185 :DEBUG : setup :Chrome is launched
+2020-05-29 12:23:08,204 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:08,204 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:16,618 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:16,618 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:16,618 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:18,812 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:18,812 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:18,812 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:18,812 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:18,830 :DEBUG : do_login :DoLogin started
+2020-05-29 12:23:19,192 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:19,192 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:19,781 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:19,781 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:19,781 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:20,633 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:20,633 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:20,633 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:20,633 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:23,038 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 12:23:26,622 :DEBUG : setup :Chrome is launched
+2020-05-29 12:23:26,622 :DEBUG : setup :Chrome is launched
+2020-05-29 12:23:26,622 :DEBUG : setup :Chrome is launched
+2020-05-29 12:23:26,622 :DEBUG : setup :Chrome is launched
+2020-05-29 12:23:26,622 :DEBUG : setup :Chrome is launched
+2020-05-29 12:23:26,674 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:26,674 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:26,674 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:26,674 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:26,674 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:26,674 :DEBUG : setup :Firefox is launched
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:33,039 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,215 :DEBUG : setup :Maximize the window
+2020-05-29 12:23:35,231 :DEBUG : do_login :DoLogin started
+2020-05-29 12:23:35,231 :DEBUG : do_login :DoLogin started
+2020-05-29 12:23:35,231 :DEBUG : do_login :DoLogin started
+2020-05-29 12:23:35,231 :DEBUG : do_login :DoLogin started
+2020-05-29 12:23:35,231 :DEBUG : do_login :DoLogin started
+2020-05-29 12:23:35,988 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:35,988 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:35,988 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:35,988 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:35,988 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:35,988 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:36,238 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:23:37,339 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:47:27,856 :DEBUG : setup :Chrome is launched
+2020-05-29 12:47:43,423 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:47:43,423 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:47:45,617 :DEBUG : setup :Maximize the window
+2020-05-29 12:47:45,617 :DEBUG : setup :Maximize the window
+2020-05-29 12:47:45,617 :DEBUG : setup :Maximize the window
+2020-05-29 12:47:45,651 :DEBUG : do_login :DoLogin started
+2020-05-29 12:47:46,038 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:47:46,038 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:47:46,326 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:47:46,326 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:47:46,326 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:47:47,685 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:47:47,685 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:47:47,685 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:47:47,685 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:47:49,087 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 12:47:52,391 :DEBUG : setup :Chrome is launched
+2020-05-29 12:47:52,391 :DEBUG : setup :Chrome is launched
+2020-05-29 12:47:52,391 :DEBUG : setup :Chrome is launched
+2020-05-29 12:47:52,391 :DEBUG : setup :Chrome is launched
+2020-05-29 12:48:08,337 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:48:08,337 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:48:08,337 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:48:08,337 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:48:08,337 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 12:48:11,664 :DEBUG : setup :Maximize the window
+2020-05-29 12:48:11,664 :DEBUG : setup :Maximize the window
+2020-05-29 12:48:11,664 :DEBUG : setup :Maximize the window
+2020-05-29 12:48:11,664 :DEBUG : setup :Maximize the window
+2020-05-29 12:48:11,664 :DEBUG : setup :Maximize the window
+2020-05-29 12:48:11,664 :DEBUG : setup :Maximize the window
+2020-05-29 12:48:11,681 :DEBUG : do_login :DoLogin started
+2020-05-29 12:48:11,681 :DEBUG : do_login :DoLogin started
+2020-05-29 12:48:11,681 :DEBUG : do_login :DoLogin started
+2020-05-29 12:48:11,681 :DEBUG : do_login :DoLogin started
+2020-05-29 12:48:11,681 :DEBUG : do_login :DoLogin started
+2020-05-29 12:48:12,028 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:48:12,028 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:48:12,028 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:48:12,028 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:48:12,028 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:48:12,028 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,331 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 12:48:12,557 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:00:41,259 :DEBUG : setup :Chrome is launched
+2020-05-29 13:00:54,087 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:00:54,087 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:00:56,259 :DEBUG : setup :Maximize the window
+2020-05-29 13:00:56,259 :DEBUG : setup :Maximize the window
+2020-05-29 13:00:56,259 :DEBUG : setup :Maximize the window
+2020-05-29 13:00:56,272 :DEBUG : do_login :DoLogin started
+2020-05-29 13:00:56,582 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:00:56,582 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:00:56,839 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:00:56,839 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:00:56,839 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:00:59,262 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:00:59,262 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:00:59,262 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:00:59,262 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:00:59,437 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:01:02,903 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:02,903 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:02,903 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:02,903 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:11,056 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:01:11,056 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:01:11,056 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:01:11,056 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:01:11,056 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:01:13,272 :DEBUG : setup :Maximize the window
+2020-05-29 13:01:13,272 :DEBUG : setup :Maximize the window
+2020-05-29 13:01:13,272 :DEBUG : setup :Maximize the window
+2020-05-29 13:01:13,272 :DEBUG : setup :Maximize the window
+2020-05-29 13:01:13,272 :DEBUG : setup :Maximize the window
+2020-05-29 13:01:13,272 :DEBUG : setup :Maximize the window
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:01:16,662 :DEBUG : setup :Chrome is launched
+2020-05-29 13:03:31,490 :DEBUG : setup :Chrome is launched
+2020-05-29 13:03:38,895 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:38,895 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:41,063 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:41,063 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:41,063 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:41,077 :DEBUG : do_login :DoLogin started
+2020-05-29 13:03:41,271 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:41,271 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:41,431 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:41,431 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:41,431 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:44,013 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:03:44,013 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:03:44,013 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:03:44,013 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:03:44,222 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:03:47,760 :DEBUG : setup :Chrome is launched
+2020-05-29 13:03:47,760 :DEBUG : setup :Chrome is launched
+2020-05-29 13:03:47,760 :DEBUG : setup :Chrome is launched
+2020-05-29 13:03:47,760 :DEBUG : setup :Chrome is launched
+2020-05-29 13:03:54,979 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:54,979 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:54,979 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:54,979 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:54,979 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:03:57,238 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:57,238 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:57,238 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:57,238 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:57,238 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:57,238 :DEBUG : setup :Maximize the window
+2020-05-29 13:03:57,258 :DEBUG : do_login :DoLogin started
+2020-05-29 13:03:57,258 :DEBUG : do_login :DoLogin started
+2020-05-29 13:03:57,258 :DEBUG : do_login :DoLogin started
+2020-05-29 13:03:57,258 :DEBUG : do_login :DoLogin started
+2020-05-29 13:03:57,258 :DEBUG : do_login :DoLogin started
+2020-05-29 13:03:58,560 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:58,560 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:58,560 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:58,560 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:58,560 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:58,560 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:03:58,898 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,376 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:01,630 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:04:01,630 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:04:01,810 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:05,406 :DEBUG : setup :Chrome is launched
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:12,241 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,489 :DEBUG : setup :Maximize the window
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,516 :DEBUG : do_login :DoLogin started
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:14,856 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:16,825 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:04:17,588 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:07:43,553 :DEBUG : setup :Chrome is launched
+2020-05-29 13:07:51,380 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:07:51,380 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:07:53,594 :DEBUG : setup :Maximize the window
+2020-05-29 13:07:53,594 :DEBUG : setup :Maximize the window
+2020-05-29 13:07:53,594 :DEBUG : setup :Maximize the window
+2020-05-29 13:07:53,613 :DEBUG : do_login :DoLogin started
+2020-05-29 13:07:53,915 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:07:53,915 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:07:54,214 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:07:54,214 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:07:54,214 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:07:55,172 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:07:55,172 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:07:55,172 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:07:55,172 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:07:57,811 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:08:03,388 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:03,388 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:03,388 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:03,388 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:10,574 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:10,574 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:10,574 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:10,574 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:10,574 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:12,733 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:12,733 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:12,733 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:12,733 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:12,733 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:12,733 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:12,753 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:12,753 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:12,753 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:12,753 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:12,753 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:13,066 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:13,066 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:13,066 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:13,066 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:13,066 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:13,066 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,435 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:13,816 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:15,851 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:08:15,851 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:08:15,942 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:21,473 :DEBUG : setup :Chrome is launched
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:28,203 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,359 :DEBUG : setup :Maximize the window
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,370 :DEBUG : do_login :DoLogin started
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,569 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:30,755 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:08:31,259 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:24:23,805 :DEBUG : do_login :DoLogin started
+2020-05-29 13:24:23,931 :DEBUG : do_login :DoLogin started
+2020-05-29 13:24:23,931 :DEBUG : do_login :DoLogin started
+2020-05-29 13:24:24,001 :DEBUG : do_login :DoLogin started
+2020-05-29 13:24:24,001 :DEBUG : do_login :DoLogin started
+2020-05-29 13:24:24,001 :DEBUG : do_login :DoLogin started
+2020-05-29 13:25:22,692 :DEBUG : do_login :DoLogin started
+2020-05-29 13:25:22,724 :DEBUG : do_login :DoLogin started
+2020-05-29 13:25:22,724 :DEBUG : do_login :DoLogin started
+2020-05-29 13:25:22,757 :DEBUG : do_login :DoLogin started
+2020-05-29 13:25:22,757 :DEBUG : do_login :DoLogin started
+2020-05-29 13:25:22,757 :DEBUG : do_login :DoLogin started
+2020-05-29 13:30:52,166 :DEBUG : setup :Chrome is launched
+2020-05-29 13:31:01,553 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:01,553 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:03,962 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:03,962 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:03,962 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:03,986 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:04,488 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:04,488 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:05,277 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:05,277 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:05,277 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:06,717 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:06,717 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:06,717 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:06,717 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:08,520 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:31:08,565 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:08,565 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:08,565 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:08,565 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:08,565 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:24,378 :DEBUG : setup :Chrome is launched
+2020-05-29 13:31:24,378 :DEBUG : setup :Chrome is launched
+2020-05-29 13:31:24,378 :DEBUG : setup :Chrome is launched
+2020-05-29 13:31:24,378 :DEBUG : setup :Chrome is launched
+2020-05-29 13:31:31,679 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:31,679 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:31,679 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:31,679 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:31,679 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:31:33,860 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:33,860 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:33,860 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:33,860 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:33,860 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:33,860 :DEBUG : setup :Maximize the window
+2020-05-29 13:31:33,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:33,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:33,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:33,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:33,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:33,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,201 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:34,402 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:31:35,478 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:32:34,159 :DEBUG : setup :Chrome is launched
+2020-05-29 13:32:42,766 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:32:42,766 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:32:45,065 :DEBUG : setup :Maximize the window
+2020-05-29 13:32:45,065 :DEBUG : setup :Maximize the window
+2020-05-29 13:32:45,065 :DEBUG : setup :Maximize the window
+2020-05-29 13:32:45,076 :DEBUG : do_login :DoLogin started
+2020-05-29 13:32:45,307 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:32:45,307 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:32:45,513 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:32:45,513 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:32:45,513 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:32:46,809 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:32:46,809 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:32:46,809 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:32:46,809 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:32:48,517 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:32:54,243 :DEBUG : setup :Chrome is launched
+2020-05-29 13:32:54,243 :DEBUG : setup :Chrome is launched
+2020-05-29 13:32:54,243 :DEBUG : setup :Chrome is launched
+2020-05-29 13:32:54,243 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:00,623 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:00,623 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:00,623 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:00,623 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:00,623 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:02,772 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:02,772 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:02,772 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:02,772 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:02,772 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:02,772 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:02,804 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:02,804 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:02,804 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:02,804 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:02,804 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:03,034 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:03,034 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:03,034 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:03,034 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:03,034 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:03,034 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:03,384 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:04,135 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:05,710 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:11,353 :DEBUG : setup :Chrome is launched
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:19,728 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,898 :DEBUG : setup :Maximize the window
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:21,915 :DEBUG : do_login :DoLogin started
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,093 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:22,285 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:33:29,618 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:02,480 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:07,719 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:07,719 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:09,871 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:09,871 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:09,871 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:09,882 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:10,078 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:10,078 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:10,257 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:10,257 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:10,257 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:12,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:12,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:12,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:12,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:12,518 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:37:18,075 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:18,075 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:18,075 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:18,075 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:24,800 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:24,800 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:24,800 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:24,800 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:24,800 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:26,964 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:26,964 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:26,964 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:26,964 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:26,964 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:26,964 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:26,986 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:26,986 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:26,986 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:26,986 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:26,986 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:27,204 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:27,204 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:27,204 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:27,204 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:27,204 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:27,204 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:27,385 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:30,805 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:31,017 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:36,665 :DEBUG : setup :Chrome is launched
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:44,042 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,235 :DEBUG : setup :Maximize the window
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:46,267 :DEBUG : do_login :DoLogin started
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,641 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:47,937 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:37:50,193 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:40:30,829 :DEBUG : setup :Chrome is launched
+2020-05-29 13:40:44,219 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:40:44,219 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:40:46,423 :DEBUG : setup :Maximize the window
+2020-05-29 13:40:46,423 :DEBUG : setup :Maximize the window
+2020-05-29 13:40:46,423 :DEBUG : setup :Maximize the window
+2020-05-29 13:40:46,438 :DEBUG : do_login :DoLogin started
+2020-05-29 13:40:46,794 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:40:46,794 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:40:47,048 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:40:47,048 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:40:47,048 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:40:50,398 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:40:50,398 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:40:50,398 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:40:50,398 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:40:50,599 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 13:40:56,266 :DEBUG : setup :Chrome is launched
+2020-05-29 13:40:56,266 :DEBUG : setup :Chrome is launched
+2020-05-29 13:40:56,266 :DEBUG : setup :Chrome is launched
+2020-05-29 13:40:56,266 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:04,265 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:04,265 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:04,265 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:04,265 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:04,265 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:06,657 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:06,657 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:06,657 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:06,657 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:06,657 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:06,657 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:06,719 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:06,719 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:06,719 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:06,719 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:06,719 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:07,498 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:07,498 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:07,498 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:07,498 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:07,498 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:07,498 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:08,386 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:09,411 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:10,576 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:16,128 :DEBUG : setup :Chrome is launched
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:23,335 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,534 :DEBUG : setup :Maximize the window
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,579 :DEBUG : do_login :DoLogin started
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:25,895 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:26,146 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 13:41:28,357 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:15,200 :DEBUG : setup :Chrome is launched
+2020-05-29 14:37:27,850 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:27,850 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:30,043 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:30,043 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:30,043 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:30,075 :DEBUG : do_login :DoLogin started
+2020-05-29 14:37:30,396 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:30,396 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:30,720 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:30,720 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:30,720 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:33,248 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:33,248 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:33,248 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:33,248 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:35,648 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 14:37:41,258 :DEBUG : setup :Chrome is launched
+2020-05-29 14:37:41,258 :DEBUG : setup :Chrome is launched
+2020-05-29 14:37:41,258 :DEBUG : setup :Chrome is launched
+2020-05-29 14:37:41,258 :DEBUG : setup :Chrome is launched
+2020-05-29 14:37:49,238 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:49,238 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:49,238 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:49,238 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:49,238 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:37:51,406 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:51,406 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:51,406 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:51,406 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:51,406 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:51,406 :DEBUG : setup :Maximize the window
+2020-05-29 14:37:51,424 :DEBUG : do_login :DoLogin started
+2020-05-29 14:37:51,424 :DEBUG : do_login :DoLogin started
+2020-05-29 14:37:51,424 :DEBUG : do_login :DoLogin started
+2020-05-29 14:37:51,424 :DEBUG : do_login :DoLogin started
+2020-05-29 14:37:51,424 :DEBUG : do_login :DoLogin started
+2020-05-29 14:37:51,692 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:51,692 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:51,692 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:51,692 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:51,692 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:51,692 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:51,863 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:55,972 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:37:56,209 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:01,752 :DEBUG : setup :Chrome is launched
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:13,079 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,284 :DEBUG : setup :Maximize the window
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,303 :DEBUG : do_login :DoLogin started
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,609 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:15,919 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:38:24,111 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:42:52,144 :DEBUG : setup :Chrome is launched
+2020-05-29 14:43:36,544 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:43:36,544 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:43:40,297 :DEBUG : setup :Maximize the window
+2020-05-29 14:43:40,297 :DEBUG : setup :Maximize the window
+2020-05-29 14:43:40,297 :DEBUG : setup :Maximize the window
+2020-05-29 14:43:40,319 :DEBUG : do_login :DoLogin started
+2020-05-29 14:43:40,708 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:43:40,708 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:43:41,036 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:43:41,036 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:43:41,036 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:43:41,402 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:43:41,402 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:43:41,402 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:43:41,402 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:43:51,144 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 14:43:56,815 :DEBUG : setup :Chrome is launched
+2020-05-29 14:43:56,815 :DEBUG : setup :Chrome is launched
+2020-05-29 14:43:56,815 :DEBUG : setup :Chrome is launched
+2020-05-29 14:43:56,815 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:37,447 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:45:37,447 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:45:37,447 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:45:37,447 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:45:37,447 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:45:39,998 :DEBUG : setup :Maximize the window
+2020-05-29 14:45:39,998 :DEBUG : setup :Maximize the window
+2020-05-29 14:45:39,998 :DEBUG : setup :Maximize the window
+2020-05-29 14:45:39,998 :DEBUG : setup :Maximize the window
+2020-05-29 14:45:39,998 :DEBUG : setup :Maximize the window
+2020-05-29 14:45:39,998 :DEBUG : setup :Maximize the window
+2020-05-29 14:45:40,046 :DEBUG : do_login :DoLogin started
+2020-05-29 14:45:40,046 :DEBUG : do_login :DoLogin started
+2020-05-29 14:45:40,046 :DEBUG : do_login :DoLogin started
+2020-05-29 14:45:40,046 :DEBUG : do_login :DoLogin started
+2020-05-29 14:45:40,046 :DEBUG : do_login :DoLogin started
+2020-05-29 14:45:40,628 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:45:40,628 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:45:40,628 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:45:40,628 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:45:40,628 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:45:40,628 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:40,936 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:41,244 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:45:49,603 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:45:55,973 :DEBUG : setup :Chrome is launched
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:08,919 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,155 :DEBUG : setup :Maximize the window
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,209 :DEBUG : do_login :DoLogin started
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:11,545 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:12,042 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:46:13,394 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:11,396 :DEBUG : setup :Chrome is launched
+2020-05-29 14:52:18,850 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:18,850 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:21,045 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:21,045 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:21,045 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:21,063 :DEBUG : do_login :DoLogin started
+2020-05-29 14:52:21,384 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:21,384 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:21,759 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:21,759 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:21,759 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:23,688 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:23,688 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:23,688 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:23,688 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:27,419 :DEBUG : verify_welcome_message :Welcome message is Welcome To Manager's Page of Guru99 Bank
+2020-05-29 14:52:33,177 :DEBUG : setup :Chrome is launched
+2020-05-29 14:52:33,177 :DEBUG : setup :Chrome is launched
+2020-05-29 14:52:33,177 :DEBUG : setup :Chrome is launched
+2020-05-29 14:52:33,177 :DEBUG : setup :Chrome is launched
+2020-05-29 14:52:49,428 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:49,428 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:49,428 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:49,428 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:49,428 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:52:51,611 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:51,611 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:51,611 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:51,611 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:51,611 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:51,611 :DEBUG : setup :Maximize the window
+2020-05-29 14:52:51,646 :DEBUG : do_login :DoLogin started
+2020-05-29 14:52:51,646 :DEBUG : do_login :DoLogin started
+2020-05-29 14:52:51,646 :DEBUG : do_login :DoLogin started
+2020-05-29 14:52:51,646 :DEBUG : do_login :DoLogin started
+2020-05-29 14:52:51,646 :DEBUG : do_login :DoLogin started
+2020-05-29 14:52:51,981 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:51,981 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:51,981 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:51,981 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:51,981 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:51,981 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:52,351 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,260 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:52:57,628 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr261615
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:03,986 :DEBUG : setup :Chrome is launched
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:11,444 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,657 :DEBUG : setup :Maximize the window
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:13,747 :DEBUG : do_login :DoLogin started
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,052 :DEBUG : do_login :User Name mngr261615 is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:14,311 :DEBUG : do_login :Password jEmUhub is enterd
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button
+2020-05-29 14:53:19,585 :DEBUG : do_login :Clicked on submit button

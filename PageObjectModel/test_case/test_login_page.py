@@ -4,26 +4,14 @@ Created on 27-Apr-2020
 """
 import json
 from actions.login_page import LoginPage
-from test_base.page import Page
-import pytest
+from test_base.test_base import TestBase
 
-@pytest.mark.usefixtures("setUp")
-class TestLoginPage():
+class TestLoginPage(TestBase):
     
     fileName = "../test_data/Data.json"
     file = open(fileName)
     data = json.load(file)
-    page = Page()
-    driver = None
-    loginPage = None
-    
-    @pytest.fixture()
-    def setUp(self):
-        self.driver = self.page.initialization()
-        yield
-        self.page.quit_session(self.driver)
-        
     
     def test_Login(self):
-        self.loginPage = LoginPage(self.driver)
-        self.loginPage.do_login(self.data["LoginPage"]["userId"], self.data["LoginPage"]["password"])
+        loginPage = LoginPage(self.driver)
+        loginPage.do_login(self.data["LoginPage"]["userId"], self.data["LoginPage"]["password"])

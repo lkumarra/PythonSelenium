@@ -3,40 +3,47 @@ Created on 27-Apr-2020
 
 @author: Lavendra rajput
 '''
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.remote.webelement import WebElement
-
 
 class Utilities:
     
-    def click_on_element(self, locator:WebElement):
+    def click_on_element(self, element:WebElement):
         """
         Perform click action on the element !
         """
-        locator.click();
+        element.click();
         
-    def enter_text_in_element_with_clear(self, locator:WebElement, text:str):
+    def enter_text_in_element_with_clear(self, element:WebElement, text:str):
         """
         Enter text with clear !
         """
-        locator.clear();
-        locator.send_keys(text)
+        element.clear();
+        element.send_keys(text)
     
-    def enter_text_in_element(self, locator:WebElement, text:str):
+    def enter_text_in_element(self, element:WebElement, text:str):
         """
         Enter text without clear !
         """
-        locator.send_keys(text)
+        element.send_keys(text)
         
-    def get_element_text(self, locator:WebElement):
+    def get_element_text(self, element:WebElement):
         """
         Return the text of webelement !
         """
-        return locator.text;
+        return element.text;
     
-    def get_alert_ext(self):
+    def get_alert_text(self):
         """
         Return the alert text and accept !
         """
         alert:Alert = self.driver.switch_to().alert()
         alert.accept
         return alert.alert_text
+    
+    def press_enter(self, element:WebElement):
+        """
+        Perfor enter operation on elements.
+        """
+        element.send_keys(Keys.ENTER)
+        

@@ -4,11 +4,10 @@ Created on 27-Apr-2020
 """
 from selenium import webdriver
 from locators.home_page_locator import HomePageLocators
-from test_base.page import Page
 from test_utils.log_mananger import LogManager
 from test_utils.utilities import Utilities
 
-class HomePage(Page):
+class HomePage():
     
     util = Utilities()
     log = LogManager()
