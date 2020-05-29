@@ -1,0 +1,1 @@
+cd test_case & py.test --html=../test_report/report.html -v -s --junitxml="../test_report/report.xml" --alluredir=../test_report/allure_results
