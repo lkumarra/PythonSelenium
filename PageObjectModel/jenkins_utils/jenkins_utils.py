@@ -9,7 +9,9 @@ JENKINS_URL = "http://localhost:8080/"
 JENKINS_USERNAME = "lavendra"
 JENKINS_PASSWORD = "Lav123456@"
 
+
 class DevOpsJenkins:
+
     def __init__(self):
         self.jenkins_server = jenkins.Jenkins(JENKINS_URL, username=JENKINS_USERNAME, password=JENKINS_PASSWORD)
         user = self.jenkins_server.get_whoami()
@@ -24,11 +26,15 @@ class DevOpsJenkins:
         build_info = self.jenkins_server.get_build_info(name, next_build_number)
         return build_info
     
-    def build_stop(self,name):
-        self.jenkins_server.stop_build(name, self.jenkins_server.get_job_info(name)['nextBuildNumber']-1)
+    def build_stop(self, name):
+        self.jenkins_server.stop_build(name, self.jenkins_server.get_job_info(name)['nextBuildNumber'] - 1)
         
     def get_console_output(self, name):
-        return self.jenkins_server.get_build_console_output(name,  self.jenkins_server.get_job_info(name)['nextBuildNumber']-1)
+        return self.jenkins_server.get_build_console_output(name, self.jenkins_server.get_job_info(name)['nextBuildNumber'] - 1)
+    
+    def get_build_report(self, name):
+        return self.jenkins_server.get_build_test_report(name, self.jenkins_server.get_job_info(name)['nextBuildNumber'] - 1)
+
 
 if __name__ == "__main__":
     NAME_OF_JOB = "Python_Automation_Framework"

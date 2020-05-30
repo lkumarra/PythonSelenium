@@ -4,6 +4,7 @@ Created on 29-May-2020
 """
 import pytest
 
+
 @pytest.mark.usefixtures("setup")
 class TestBase:
     pass

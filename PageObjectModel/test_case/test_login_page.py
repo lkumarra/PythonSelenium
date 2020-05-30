@@ -6,6 +6,7 @@ import json
 from actions.login_page import LoginPage
 from test_base.test_base import TestBase
 
+
 class TestLoginPage(TestBase):
     
     fileName = "../test_data/Data.json"

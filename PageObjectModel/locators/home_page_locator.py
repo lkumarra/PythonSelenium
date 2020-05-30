@@ -4,9 +4,10 @@ Created on 27-Apr-2020
 """
 from seleniumpagefactory.Pagefactory import PageFactory
 
+
 class HomePageLocators(PageFactory):
     
-    def __init__(self,driver):
+    def __init__(self, driver):
         # It is necessary to to initialise driver as page class member to implement Page Factory
         self.driver = driver
         

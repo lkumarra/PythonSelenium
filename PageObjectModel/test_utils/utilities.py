@@ -6,6 +6,7 @@ Created on 27-Apr-2020
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.remote.webelement import WebElement
 
+
 class Utilities:
     
     def click_on_element(self, element:WebElement):

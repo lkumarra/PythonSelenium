@@ -6,6 +6,7 @@ Created on 27-Apr-2020
 import inspect
 import logging
 
+
 class LogManager:
     
     def getLogger(self):
@@ -18,6 +19,6 @@ class LogManager:
         fileHandler.setFormatter(formatter)
         ch.setFormatter(formatter)
         logger.addHandler(fileHandler) 
-        logger.addHandler(ch) # filehandler object
+        logger.addHandler(ch)  # filehandler object
         logger.setLevel(logging.DEBUG)
         return logger
