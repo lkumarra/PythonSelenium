@@ -13,9 +13,9 @@
 3. **By Running TestRunner.exe which will also install dependencies before Running it will be  useful in running tests for the first time.**
 	
 # Jenkins Build can also Triggred Using Following Steps:
-1.**Provide the Jenkins Details in Jenkins Utils and Jenkins Runner Package**
-2.**Run jenkins_runner.py and click on start button to start execution.**
-3.**Click on stop to stop the execution.**
+1. **Provide the Jenkins Details in Jenkins Utils and Jenkins Runner Package**
+2. **Run jenkins_runner.py and click on start button to start execution.**
+3. **Click on stop to stop the execution.**
 	
 # The Framework Contains 3 Reporting:
 1. **Html Reporting**
