@@ -1714,3 +1714,19 @@
 2020-09-06 13:40:09,342 :DEBUG : do_login :Clicked on submit button
 2020-09-06 13:40:09,342 :DEBUG : do_login :Clicked on submit button
 2020-09-06 13:40:09,558 :DEBUG : verify_manager_id :Welcome message is Manger Id : mngr283108
+2020-09-27 15:49:39,446 :DEBUG : setup :Chrome is launched
+2020-09-27 15:49:42,523 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-09-27 15:49:42,523 :DEBUG : setup :Enter the urlhttp://www.demo.guru99.com/V4/index.php
+2020-09-27 15:49:45,543 :DEBUG : setup :Maximize the window
+2020-09-27 15:49:45,543 :DEBUG : setup :Maximize the window
+2020-09-27 15:49:45,543 :DEBUG : setup :Maximize the window
+2020-09-27 15:49:45,559 :DEBUG : do_login :DoLogin started
+2020-09-27 15:49:45,895 :DEBUG : do_login :User Name mngr283108 is enterd
+2020-09-27 15:49:45,895 :DEBUG : do_login :User Name mngr283108 is enterd
+2020-09-27 15:49:46,202 :DEBUG : do_login :Password userEqA is enterd
+2020-09-27 15:49:46,202 :DEBUG : do_login :Password userEqA is enterd
+2020-09-27 15:49:46,202 :DEBUG : do_login :Password userEqA is enterd
+2020-09-27 15:49:46,797 :DEBUG : do_login :Clicked on submit button
+2020-09-27 15:49:46,797 :DEBUG : do_login :Clicked on submit button
+2020-09-27 15:49:46,797 :DEBUG : do_login :Clicked on submit button
+2020-09-27 15:49:46,797 :DEBUG : do_login :Clicked on submit button
