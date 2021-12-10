@@ -1,0 +1,2 @@
+# PythonSelenium
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fec5e8cd631e4fe1a7b49ca71c585aaa)](https://app.codacy.com/manual/lkumarra/PythonSelenium?utm_source=github.com&utm_medium=referral&utm_content=lkumarra/PythonSelenium&utm_campaign=Badge_Grade_Dashboard)
